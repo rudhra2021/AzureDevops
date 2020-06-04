@@ -22,6 +22,6 @@ steps:
     ensureBackend: true
     backendAzureRmResourceGroupName: 'terraform-backend-rg'
     backendAzureRmResourceGroupLocation: 'westeurope'
-    backendAzureRmStorageAccountName: 'storageaccount-sasi-2020'
-    backendAzureRmContainerName: 'storageaccount-sasi-2020'
+    backendAzureRmStorageAccountName: 'storageaccountsasi2020'
+    backendAzureRmContainerName: 'storageaccountsasi2020'
     backendAzureRmKey: 'kubernetes-dev.tfstate'
